@@ -20,7 +20,7 @@ require_once '../controller/sessionController.php';
     <div class="textpage">
       <!--Ver todos los libros-->      
       <?php
-      // require_once '../controller/librosController.php';
+      require_once '../controller/sessionController.php';
       ?>
     </div>
   </div>
